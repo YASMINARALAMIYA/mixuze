@@ -1,0 +1,9 @@
+body{
+    background: rgb(110, 135, 187);
+
+}
+.navbar {
+    box-shadow: 2px 2px 5px #3292a6;
+    background: #fff;
+    opacity: 1;
+}
